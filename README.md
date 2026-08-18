@@ -1,6 +1,6 @@
 # Website Builder Comparisons for Small Businesses
 
-Independent, structured research comparing website builders for small businesses based on published pricing, custom-domain support, hosting, SSL, AI capabilities, and practical use cases.
+Structured pricing and feature research comparing website builders for small businesses based on published pricing, custom-domain support, hosting, SSL, AI capabilities, and practical use cases.
 
 **Last reviewed: August 18, 2026**
 
